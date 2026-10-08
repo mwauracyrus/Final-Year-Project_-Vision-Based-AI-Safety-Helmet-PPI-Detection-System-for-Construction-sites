@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# Model weights, face data, videos and logs are kept out of the repo
+*.pt
+*.npy
+*.mp4
+buffalo/
+faces/
+violations/
+.env
