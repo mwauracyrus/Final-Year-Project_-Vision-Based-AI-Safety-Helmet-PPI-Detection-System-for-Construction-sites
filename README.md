@@ -1,0 +1,2 @@
+# Final-Year-Project_-Vision-Based-AI-Safety-Helmet-PPI-Detection-System-for-Construction-sites
+This project develops a Vision-Based AI Safety Helmet Detection System for construction sites. It combines YOLOv8 for helmet detection, InsightFace for worker identification, GPS/GSM for location and SMS alerts, Telegram notifications, LEDs, and voice warnings to provide real-time safety monitoring and violation reporting.
